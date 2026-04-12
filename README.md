@@ -17,11 +17,6 @@ solving practical problems with tech.
 - **ML/AI:** Hugging Face (NLP), Generative AI tools
 - **Tools:** Streamlit, Power BI, Figma, Canva
 
-## 🌱 Currently Learning
-
-- Machine Learning & Deep Learning (Krish Naik, CampusX)
-- DSA (daily LeetCode practice)
-
 ## 🏆 Highlights
 
 - Finalist – AI Hack Days Hackathon, Tech Mahindra
