@@ -21,7 +21,8 @@ solving practical problems with tech.
 
 - Finalist – AI Hack Days Hackathon, Tech Mahindra
 - Tech Lead Intern – Swecha Hyderabad (May–July 2025)
-- Student Coordinator – AI/ML Tejas Technical Club
+- Student Coordinator – AI/ML UDBHAV Technical Club
+- CRC(Student Committee) Member
 
 ## 📫 Let's Connect
 
